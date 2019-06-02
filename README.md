@@ -1,6 +1,7 @@
 # To-Do-Project-React
 Made with ReactJS, html, css inspired by CS50 Beyond Course.
 <img src="https://media.giphy.com/media/U5JoDxyCotiCHyI9vz/giphy.gif"/>
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
